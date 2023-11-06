@@ -1,0 +1,12 @@
+.dialogg{
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+
+}
+.input{
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+
+}

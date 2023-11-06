@@ -1,0 +1,11 @@
+.dialogg{
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+
+.dialogaction{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

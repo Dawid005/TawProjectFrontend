@@ -1,0 +1,10 @@
+.addbutton{
+  display: flex;
+  justify-content: center;
+  margin: 10px 400px;
+}
+.center{
+  display: flex;
+  justify-content: center;
+  margin: 10px 0px;
+}
